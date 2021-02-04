@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T01:39:07.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="gdL577LuU-tZ9w0YgNSg" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T01:42:56.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="GYEQhTpbPHx44aX5EQQR" version="14.2.7" type="github">
   <diagram id="zRHPwge-psrrGSntViZI" name="Page-2">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,32 +131,69 @@
         <mxCell id="yuXcSH4Fa_98U27NMeeZ-39" value="Go to Purchase Process" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
           <mxGeometry x="220" y="40" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZLcoIS4gPhBTNXaGYCCO-1" source="yuXcSH4Fa_98U27NMeeZ-40" target="yuXcSH4Fa_98U27NMeeZ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yuXcSH4Fa_98U27NMeeZ-40" value="Purchase Process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
-          <mxGeometry x="35" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="760" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZLcoIS4gPhBTNXaGYCCO-1" source="yuXcSH4Fa_98U27NMeeZ-41" target="yuXcSH4Fa_98U27NMeeZ-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yuXcSH4Fa_98U27NMeeZ-41" value="Get First Name, Last Name, Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
           <mxGeometry x="200" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZLcoIS4gPhBTNXaGYCCO-1" source="yuXcSH4Fa_98U27NMeeZ-42" target="yuXcSH4Fa_98U27NMeeZ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yuXcSH4Fa_98U27NMeeZ-42" value="show Order form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
           <mxGeometry x="360" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZLcoIS4gPhBTNXaGYCCO-1" source="yuXcSH4Fa_98U27NMeeZ-43" target="yuXcSH4Fa_98U27NMeeZ-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yuXcSH4Fa_98U27NMeeZ-43" value="Collect CC information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
           <mxGeometry x="520" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZLcoIS4gPhBTNXaGYCCO-1" source="yuXcSH4Fa_98U27NMeeZ-44" target="yuXcSH4Fa_98U27NMeeZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yuXcSH4Fa_98U27NMeeZ-44" value="Provide Opportunity to put in referral code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
           <mxGeometry x="680" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZLcoIS4gPhBTNXaGYCCO-1" source="yuXcSH4Fa_98U27NMeeZ-45" target="yuXcSH4Fa_98U27NMeeZ-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yuXcSH4Fa_98U27NMeeZ-45" value="Validate referral code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
           <mxGeometry x="40" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-56" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZLcoIS4gPhBTNXaGYCCO-1" source="yuXcSH4Fa_98U27NMeeZ-46" target="yuXcSH4Fa_98U27NMeeZ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-59" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ZLcoIS4gPhBTNXaGYCCO-1" source="yuXcSH4Fa_98U27NMeeZ-46" target="yuXcSH4Fa_98U27NMeeZ-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yuXcSH4Fa_98U27NMeeZ-46" value="Valid?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
           <mxGeometry x="230" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yuXcSH4Fa_98U27NMeeZ-47" value="Create User and send email verification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
-          <mxGeometry x="360" y="860" width="120" height="60" as="geometry" />
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZLcoIS4gPhBTNXaGYCCO-1" source="yuXcSH4Fa_98U27NMeeZ-47" target="yuXcSH4Fa_98U27NMeeZ-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yuXcSH4Fa_98U27NMeeZ-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
-          <mxGeometry x="520" y="860" width="120" height="60" as="geometry" />
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-47" value="Create User and send email verification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
+          <mxGeometry x="360" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZLcoIS4gPhBTNXaGYCCO-1" source="yuXcSH4Fa_98U27NMeeZ-48" target="yuXcSH4Fa_98U27NMeeZ-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-48" value="Post message to check email; display &quot;close&quot; button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
+          <mxGeometry x="520" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXcSH4Fa_98U27NMeeZ-49" value="Email link sends them to login page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZLcoIS4gPhBTNXaGYCCO-1">
+          <mxGeometry x="680" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
